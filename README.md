@@ -4,6 +4,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tysyak)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Tysyak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tysyak)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Emacs go brrrrr...
 
 <!--
