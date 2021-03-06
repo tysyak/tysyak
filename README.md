@@ -7,7 +7,9 @@
 [![Tysyak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tysyak)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Emacs go brrrrr...
+Work on an elephant
+
+I enjoy a good drink of elixir
 
 <!--
 **tysyak/tysyak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
