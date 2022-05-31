@@ -2,9 +2,9 @@
 
 [![Tysyak's stats](https://github-readme-stats.vercel.app/api?username=tysyak&count_private=false&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tysyak)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tysyak&hide=tex)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Tysyak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tysyak&hide=tex)](https://github.com/anuraghazra/github-readme-stats)
+[![Tysyak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tysyak)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Work on an elephant
